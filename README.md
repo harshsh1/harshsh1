@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: hs6682100@gmail.com
 
-- ⚡ Fun fact: Turning Caffeine int code since 2002
+- ⚡ Fun fact: Turning Caffeine into code since 2002
 
 
   
